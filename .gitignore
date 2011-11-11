@@ -1,0 +1,10 @@
+uploads
+*.pyc
+CACHE
+.DS_Store
+*.db
+search_index
+settings_local.py
+dist
+*.egg-info
+MANIFEST

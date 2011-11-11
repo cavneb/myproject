@@ -1,0 +1,1 @@
+from test_all_views_response_correctly import *
